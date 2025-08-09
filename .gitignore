@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/*
+data/processed/*
+
+# Virtual environments
+venv/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
